@@ -28,7 +28,7 @@ Extrair, tratar e analisar dados do Tribunal Superior Eleitoral (TSE) referentes
 
 Os dados são coletados diretamente do site oficial do TSE:
 
-📎 [https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais)
+📎 [https://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais](https://www.tse.jus.br/eleicoes/estatisticas/)
 
 A coleta é feita por meio de **requisições HTTP e parsing HTML/JSON**, ou utilizando os arquivos `.zip` de resultados das urnas por seção eleitoral.
 
